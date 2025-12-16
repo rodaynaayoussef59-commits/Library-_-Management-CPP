@@ -2,7 +2,9 @@
 A simple Library Management System implemented in C++.
 
 #include <iostream>
+
 #include <string>
+
 using namespace std;
 
 const int size = 100;
